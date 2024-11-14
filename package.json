@@ -1,8 +1,7 @@
 {
   "name": "pwa-att1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve ."
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "serve": "^14.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxbitencourt/PWA-ATT1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xxbitencourt/PWA-ATT1/issues"
+  },
+  "homepage": "https://github.com/xxbitencourt/PWA-ATT1#readme",
+  "description": ""
 }
